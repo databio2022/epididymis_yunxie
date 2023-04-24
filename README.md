@@ -1,1 +1,1 @@
-# epididymis single cell RNA sequenceing data analysis code
+# epididymis single cell RNA sequencing data analysis code
